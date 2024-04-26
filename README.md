@@ -1,4 +1,5 @@
-![Banner](https://github.com/vt0022/vt0022/assets/94773081/56bceca8-417c-4ebd-9078-f7ba37954b4d)
+![Banner](https://github.com/vt0022/vt0022/assets/94773081/0455e933-1424-4a98-8ae5-139604ed2f50)
+
 
 
 ## 👋 &nbsp;Hey there! I'm Nguyen Van Thuan
@@ -67,3 +68,12 @@
 <a href="mailto:vanthuan2004@gmail.com"><img src="https://img.shields.io/badge/-vanthuan2004-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/vt0022"><img src="https://img.shields.io/badge/-vt0022-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+
+### 🐍 &nbsp;That's How Commits move ...
+
+<div align="center">
+  <a href="https://github.com/vt0022">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
